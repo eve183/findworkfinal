@@ -123,7 +123,3 @@ public class CategoriaServiceTests {
         verify(categoriaRepository, times(1)).deleteById(categoriaId);
     }
 }
-
-
-
-
